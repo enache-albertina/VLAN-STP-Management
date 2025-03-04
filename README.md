@@ -1,5 +1,3 @@
-# Tema1 - RL
-
 ##  **Am implementat in cod urmatoarele functionalitati:**
 
     - tabela de comutare
